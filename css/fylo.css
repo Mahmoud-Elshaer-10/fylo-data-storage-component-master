@@ -55,14 +55,14 @@ main {
   margin: 4rem 0 0 1.5rem;
   align-items: center;
 }
-.icons picture {
+.icons .pic {
   margin-right: 4.5rem;
   position: relative;
   z-index: 0;
   display: grid;
   place-items: center;
 }
-.icons picture::before {
+.icons .pic::before {
   position: absolute;
   content: "";
   background: var(--Very-Dark-Blue);
