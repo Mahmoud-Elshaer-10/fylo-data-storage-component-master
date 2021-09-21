@@ -191,4 +191,6 @@ main {
 }
 h1 {
   position: absolute;
+  width: 0px;
+  overflow: hidden;
 }
