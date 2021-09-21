@@ -189,3 +189,7 @@ main {
     right: 0;
   }
 }
+h1 {
+  visibility: hidden;
+  position: absolute;
+}
